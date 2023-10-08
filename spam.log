@@ -1,0 +1,507 @@
+INFO:aiogram:Bot: ActiveBee\U0001f41d [@activebee_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:Каталог\U0001f4e6
+INFO:root:КАПЛИ / СПРЕИ
+INFO:root:Назад\U0001f519
+INFO:root:Корзина\U0001f5d1
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: ActiveBee\U0001f41d [@activebee_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:О нас
+INFO:root:Каталог\U0001f4e6
+INFO:root:КАПЛИ / СПРЕИ
+INFO:root:Назад\U0001f519
+INFO:root:Корзина\U0001f5d1
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: ActiveBee\U0001f41d [@activebee_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:Каталог\U0001f4e6
+INFO:root:КАПЛИ / СПРЕИ
+INFO:root:ПАСТЫ
+INFO:root:Назад\U0001f519
+INFO:root:Корзина\U0001f5d1
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: ActiveBee\U0001f41d [@activebee_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:Корзина\U0001f5d1
+INFO:root:Каталог\U0001f4e6
+INFO:root:КАПЛИ / СПРЕИ
+INFO:root:КАПЛИ / СПРЕИ
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: ActiveBee\U0001f41d [@activebee_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:КАПЛИ / СПРЕИ
+INFO:root:Корзина\U0001f5d1
+INFO:root:Корзина\U0001f5d1
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: ActiveBee\U0001f41d [@activebee_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:root:<bound method Message.answer of <Message {"message_id": 7677, "from": {"id": 1186132006, "is_bot": false, "first_name": "S", "last_name": "M", "username": "ms2992", "language_code": "ru"}, "chat": {"id": 1186132006, "first_name": "S", "last_name": "M", "username": "ms2992", "type": "private"}, "date": 1684626263, "text": "Назад\u25c0\ufe0f"}>>
+INFO:root:<bound method Message.answer of <Message {"message_id": 7679, "from": {"id": 1186132006, "is_bot": false, "first_name": "S", "last_name": "M", "username": "ms2992", "language_code": "ru"}, "chat": {"id": 1186132006, "first_name": "S", "last_name": "M", "username": "ms2992", "type": "private"}, "date": 1684626280, "text": "Назад\U0001f519"}>>
+INFO:root:<bound method Message.answer of <Message {"message_id": 7681, "from": {"id": 1186132006, "is_bot": false, "first_name": "S", "last_name": "M", "username": "ms2992", "language_code": "ru"}, "chat": {"id": 1186132006, "first_name": "S", "last_name": "M", "username": "ms2992", "type": "private"}, "date": 1684626282, "text": "Корзина\U0001f5d1"}>>
+INFO:root:<bound method Message.answer of <Message {"message_id": 7686, "from": {"id": 1186132006, "is_bot": false, "first_name": "S", "last_name": "M", "username": "ms2992", "language_code": "ru"}, "chat": {"id": 1186132006, "first_name": "S", "last_name": "M", "username": "ms2992", "type": "private"}, "date": 1684626287, "text": "Список заказов\U0001f4c4"}>>
+INFO:root:<bound method Message.answer of <Message {"message_id": 7690, "from": {"id": 1186132006, "is_bot": false, "first_name": "S", "last_name": "M", "username": "ms2992", "language_code": "ru"}, "chat": {"id": 1186132006, "first_name": "S", "last_name": "M", "username": "ms2992", "type": "private"}, "date": 1684626290, "text": "Корзина\U0001f5d1"}>>
+INFO:root:<bound method Message.answer of <Message {"message_id": 7695, "from": {"id": 1186132006, "is_bot": false, "first_name": "S", "last_name": "M", "username": "ms2992", "language_code": "ru"}, "chat": {"id": 1186132006, "first_name": "S", "last_name": "M", "username": "ms2992", "type": "private"}, "date": 1684626298, "text": "Каталог\U0001f4e6"}>>
+INFO:root:<bound method Message.answer of <Message {"message_id": 7697, "from": {"id": 1186132006, "is_bot": false, "first_name": "S", "last_name": "M", "username": "ms2992", "language_code": "ru"}, "chat": {"id": 1186132006, "first_name": "S", "last_name": "M", "username": "ms2992", "type": "private"}, "date": 1684626337, "text": "Назад\U0001f519"}>>
+INFO:root:<bound method Message.answer of <Message {"message_id": 7699, "from": {"id": 1186132006, "is_bot": false, "first_name": "S", "last_name": "M", "username": "ms2992", "language_code": "ru"}, "chat": {"id": 1186132006, "first_name": "S", "last_name": "M", "username": "ms2992", "type": "private"}, "date": 1684626339, "text": "Корзина\U0001f5d1"}>>
+INFO:root:<bound method Message.answer of <Message {"message_id": 7704, "from": {"id": 1186132006, "is_bot": false, "first_name": "S", "last_name": "M", "username": "ms2992", "language_code": "ru"}, "chat": {"id": 1186132006, "first_name": "S", "last_name": "M", "username": "ms2992", "type": "private"}, "date": 1684626342, "text": "Контакты\u260e\ufe0f"}>>
+INFO:root:<bound method Message.answer of <Message {"message_id": 7706, "from": {"id": 1186132006, "is_bot": false, "first_name": "S", "last_name": "M", "username": "ms2992", "language_code": "ru"}, "chat": {"id": 1186132006, "first_name": "S", "last_name": "M", "username": "ms2992", "type": "private"}, "date": 1684626357, "text": "Каталог\U0001f4e6"}>>
+INFO:root:<bound method Message.answer of <Message {"message_id": 7708, "from": {"id": 1186132006, "is_bot": false, "first_name": "S", "last_name": "M", "username": "ms2992", "language_code": "ru"}, "chat": {"id": 1186132006, "first_name": "S", "last_name": "M", "username": "ms2992", "type": "private"}, "date": 1684626509, "text": "Корзина\U0001f5d1"}>>
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: ActiveBee\U0001f41d [@activebee_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+ERROR:aiogram.dispatcher.dispatcher:Cause exception while getting updates.
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 381, in start_polling
+    updates = await self.bot.get_updates(
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\bot.py", line 110, in get_updates
+    result = await self.request(api.Methods.GET_UPDATES, payload)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\base.py", line 236, in request
+    return await api.make_request(await self.get_session(), self.server, self.__token, method, data, files,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\api.py", line 140, in make_request
+    return check_result(method, response.content_type, response.status, await response.text())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\bot\api.py", line 119, in check_result
+    exceptions.ConflictError.detect(description)
+  File "C:\Users\User\PycharmProjects\Доставка бот\venv\Lib\site-packages\aiogram\utils\exceptions.py", line 140, in detect
+    raise err(cls.text or description)
+aiogram.utils.exceptions.TerminatedByOtherGetUpdates: Terminated by other getupdates request; make sure that only one bot instance is running
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such table: users')>
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\main.py", line 38, in start_message
+    checker = database.check_user(user_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\database.py", line 103, in check_user
+    checker = sql.execute('SELECT id FROM users WHERE id=?;',
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such table: users
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: id')>
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\main.py", line 28, in start_message
+    checker = database.check_user(user_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\database.py", line 19, in check_user
+    checker = sql.execute('SELECT id FROM users WHERE id=?;',
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: id
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: id')>
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\main.py", line 28, in start_message
+    checker = database.check_user(user_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\database.py", line 19, in check_user
+    checker = sql.execute('SELECT id FROM users WHERE id=?;',
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: id
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: id')>
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\main.py", line 28, in start_message
+    checker = database.check_user(user_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\database.py", line 19, in check_user
+    checker = sql.execute('SELECT id FROM users WHERE id=?;',
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: id
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: id')>
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\main.py", line 28, in start_message
+    checker = database.check_user(user_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\database.py", line 19, in check_user
+    checker = sql.execute('SELECT user_id FROM users WHERE id=?;',
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: id
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-12' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: id')>
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\main.py", line 28, in start_message
+    checker = database.check_user(user_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\database.py", line 19, in check_user
+    checker = sql.execute('SELECT user_id FROM users WHERE id=?;',
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: id
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=OperationalError('no such column: id')>
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\main.py", line 28, in start_message
+    checker = database.check_user(user_id)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\database.py", line 19, in check_user
+    checker = sql.execute('SELECT user_id FROM users WHERE id=?;',
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+sqlite3.OperationalError: no such column: id
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Message' object has no attribute 'from_user_id'")>
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\main.py", line 93, in main_menu
+    await bot.send_chat_action(message.from_user_id, action=types.ChatActions.TYPING)
+                               ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'from_user_id'
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+ERROR:asyncio:Task exception was never retrieved
+future: <Task finished name='Task-9' coro=<Dispatcher._process_polling_updates() done, defined at C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py:407> exception=AttributeError("'Message' object has no attribute 'user_id'")>
+Traceback (most recent call last):
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 415, in _process_polling_updates
+    for responses in itertools.chain.from_iterable(await self.process_updates(updates, fast)):
+                                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 235, in process_updates
+    return await asyncio.gather(*tasks)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\dispatcher.py", line 256, in process_update
+    return await self.message_handlers.notify(update.message)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\venv\Lib\site-packages\aiogram\dispatcher\handler.py", line 117, in notify
+    response = await handler_obj.handler(*args, **partial_data)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\PycharmProjects\psyweb\main.py", line 93, in main_menu
+    await bot.send_chat_action(message.user_id, action=types.ChatActions.TYPING)
+                               ^^^^^^^^^^^^^^^
+AttributeError: 'Message' object has no attribute 'user_id'
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
+INFO:aiogram:Bot: Vebinar(PsychoFemme)_bot [@psychofemmevebinar_bot]
+WARNING:aiogram:Updates were skipped successfully.
+INFO:aiogram.dispatcher.dispatcher:Start polling.
+INFO:aiogram.dispatcher.dispatcher:Stop polling...
+WARNING:aiogram:Goodbye!
